@@ -1,5 +1,5 @@
-Time Series Analysis of Material Data from Recycling Plant using Statistical and Deep Learning Techniques
-
+**Time Series Analysis of Material Data from Recycling Plant using Statistical and Deep Learning Techniques
+**
 Data Analyst:
 Many companies hire data analysts with experience in time series analysis to work on various projects, including data quality assessment and forecasting. 
 
