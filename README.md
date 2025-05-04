@@ -65,6 +65,10 @@ This project explores time series analysis and forecasting techniques for predic
 
 ---
 
+## Thank You! 😊
+Thank you for exploring this project! If you have any suggestions or questions, feel free to reach out. Contributions are always welcome!
+
+
 
 
 
