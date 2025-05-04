@@ -11,10 +11,12 @@ This project explores time series analysis and forecasting techniques for predic
 
 ## 📌 Objectives
 
-- Preprocess recycling plant data for time series forecasting
-- Apply SARIMA and LSTM models for prediction
-- Compare model performance using RMSE with rolling cross-validation
-- Forecast future material volumes over a 5-year horizon
+- Preprocess recycling plant data to make it suitable for time series forecasting
+- Identifying key patterns, trends, and seasonal fluctuations
+- Conduct hyperparameter optimization and one-step ahead rolling cross validation approach
+- Perform an empirical study on  traditional model SARIMA and deep learning-based algorithms LSTM
+- Compare the predictive performance of both models with the accuracy metric RMSE
+- Long-term forecasting for enhancing material management, planning, and operational efficiency within the recycling industry.
 
 ---
 
@@ -22,7 +24,7 @@ This project explores time series analysis and forecasting techniques for predic
 
 - **SARIMA:** Seasonal Autoregressive Integrated Moving Average
 - **LSTM:** Long Short-Term Memory neural network
-- (Optional) **FFT:** Fast Fourier Transform for trend extraction
+- (Optional) **FFT/DFT:** Fast Fourier Transform for trend extraction
 
 ---
 
